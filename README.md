@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🎬 Netflix Content Strategy Analysis
 
 ### Business-Driven Exploratory Data Analysis using Python
