@@ -152,7 +152,7 @@ Netflix-Content-Strategy-Analysis/
 │   └── netflix_titles.csv
 │
 ├── notebook/
-│   └── Netflix_EDA.ipynb
+│   └── Netflix_Content_Strategy_Analysis.ipynb
 │
 ├── images/
 │
